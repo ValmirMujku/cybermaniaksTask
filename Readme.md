@@ -8,4 +8,4 @@
 4.Sequelize
 5.PostgreSQL
 
-`Port -> localhost:3300`
+`Port -> localhost:3500`
